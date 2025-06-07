@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**pedro-oliveira-dev/pedro-oliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu GitHub!  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (FATEC) e já concluí o técnico em Desenvolvimento de Sistemas pela ETEC. 
 
-Here are some ideas to get you started:
+Tenho um interesse especial por **back-end** — gosto da lógica por trás das coisas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que eu procuro:
+Uma oportunidade de **estágio em desenvolvimento back-end**, onde eu possa contribuir, aprender com outras pessoas da área e evoluir tanto técnicamente quanto profissionalmente.
+
+### 👨‍💻 Tecnologias que venho usando:
+- PHP, MySQL  
+- HTML, CSS, JavaScript (com Bootstrap)  
+- Git, Docker  
+- Linux (Ubuntu)  
+- E também estudo lógica e/ou POO com Java, Python e C.
+
+### 📘 Extras:
+Sou organizado, gosto de entender como as coisas funcionam, tenho facilidade em aprender sozinho e estou sempre buscando formas de melhorar o que faço. Aqui no GitHub, você vai encontrar tanto projetos simples quanto experimentos e ideias em andamento. Alguns são antigos e refletem meu início na programação — e isso faz parte do processo!
+
+---
